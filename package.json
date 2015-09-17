@@ -1,0 +1,19 @@
+{
+  "name": "auto-aqua-request",
+  "version": "1.0.0",
+  "description": "Automatically queries endpoint with AQuA statement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xiaonan Tong",
+  "license": "ISC",
+  "dependencies": {
+    "generic-pool": "^2.2.0",
+    "jdbc": "*",
+    "lodash": "^3.10.1",
+    "mysql": "^2.8.0",
+    "unirest": "^0.4.2",
+    "when": "^3.7.3"
+  }
+}
